@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "ShopNext": {
+      "name": "ShopNext",
+      "integrations": {},
+      "type": "angular",
+      "root": "ShopNext"
+    },
+    "myOtherApp": {
+      "name": "myOtherApp",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps/myOtherApp"
+    }
+  }
+}
