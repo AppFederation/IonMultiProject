@@ -1,12 +1,16 @@
 {
   "$schema": "ShopNext/node_modules/@angular-devkit/core/src/workspace/workspace-schema.json",
   "version": 1,
-  "defaultProject": "myOtherApp",
+  "defaultProject": "app3",
   "newProjectRoot": "projects",
   "projects": {
 
     "myOtherApp": {
       "root": "apps/myOtherApp",
+      "projectType": "application"
+    },
+    "app3": {
+      "root": "apps/app3",
       "projectType": "application"
     },
     "ShopNext": {

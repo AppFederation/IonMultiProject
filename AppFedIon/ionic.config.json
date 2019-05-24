@@ -1,4 +1,5 @@
 {
+  "defaultProject": "app3",
   "projects": {
     "ShopNext": {
       "name": "ShopNext",
@@ -11,6 +12,12 @@
       "integrations": {},
       "type": "angular",
       "root": "apps/myOtherApp"
+    },
+    "app3": {
+      "name": "app3",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps/app3"
     }
   }
 }
